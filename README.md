@@ -30,6 +30,6 @@ def circulate():
     print("After circulating the values are:",result)
 ```
 ## Output:
-![output](/Circulate-the-values-of-N-variables/nvariableoutput.png)
+![output](/nvariableoutput.png)
 ## Result:
 Thus the program is executed successfully
